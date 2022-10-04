@@ -1,0 +1,14 @@
+# Ce document contient toutes les références et les sources liées au projet TP2 en Jeux 2D
+# Auteur: Simon Fréchette et Clément Provencher
+# Octobre 2022
+
+# tileset pour les obstacles (tilemap) -- 
+
+https://opengameart.org/content/nature-tileset
+
+https://opengameart.org/content/generic-platformer-tileset-16x16-background
+
+https://opengameart.org/content/sky-background
+
+
+
