@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/2015-02-26 [DB32](Generic Platformer)(Tileset).png-d78640b536fb1ee1fb901bfc807a57da.stex"
+path="res://.import/avion_flipped.png-7773c9ce0abc33d78dc195b0a591df7e.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/2015-02-26 [DB32](Generic Platformer)(Tileset).png"
-dest_files=[ "res://.import/2015-02-26 [DB32](Generic Platformer)(Tileset).png-d78640b536fb1ee1fb901bfc807a57da.stex" ]
+source_file="res://assets/avion_flipped.png"
+dest_files=[ "res://.import/avion_flipped.png-7773c9ce0abc33d78dc195b0a591df7e.stex" ]
 
 [params]
 

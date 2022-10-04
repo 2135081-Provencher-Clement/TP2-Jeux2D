@@ -3,15 +3,14 @@
 # Octobre 2022
 
 # tileset pour les obstacles (tilemap) -- 
-
 https://opengameart.org/content/nature-tileset
-
 https://opengameart.org/content/generic-platformer-tileset-16x16-background
-
 https://opengameart.org/content/sky-background
 
 # personnage (avion)
 https://img.itch.zone/aW1nLzgxNjQxMjkuZ2lm/315x250%23cm/KDL03v.gif
 
+# particules d'étoile (sortant de l'avion)
+https://www.pngegg.com/en/png-zfscm
 
 

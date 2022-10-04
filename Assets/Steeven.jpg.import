@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Steeven.jpg-16533eaaf7b3bb0de53a6ce43b75562d.stex"
+path="res://.import/Steeven.jpg-d9657bb4b05a93573b4d0990e140e699.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Steeven.jpg"
-dest_files=[ "res://.import/Steeven.jpg-16533eaaf7b3bb0de53a6ce43b75562d.stex" ]
+source_file="res://assets/Steeven.jpg"
+dest_files=[ "res://.import/Steeven.jpg-d9657bb4b05a93573b4d0990e140e699.stex" ]
 
 [params]
 

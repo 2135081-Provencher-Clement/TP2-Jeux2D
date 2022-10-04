@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/2015-02-26 [DB32](Generic Platformer)(Tileset).png-d78640b536fb1ee1fb901bfc807a57da.stex"
+path="res://.import/étoile.png-8f12fda0a0839024920529c601dc829d.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/2015-02-26 [DB32](Generic Platformer)(Tileset).png"
-dest_files=[ "res://.import/2015-02-26 [DB32](Generic Platformer)(Tileset).png-d78640b536fb1ee1fb901bfc807a57da.stex" ]
+source_file="res://assets/étoile.png"
+dest_files=[ "res://.import/étoile.png-8f12fda0a0839024920529c601dc829d.stex" ]
 
 [params]
 

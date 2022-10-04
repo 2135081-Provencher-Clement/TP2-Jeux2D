@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/tilesetOpenGameBackground.png-49785bb54436d985360f5f34c74cd017.stex"
+path="res://.import/tilesetOpenGameBackground.png-a9f431c4159f933bbcbe31760bd057fd.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/tilesetOpenGameBackground.png"
-dest_files=[ "res://.import/tilesetOpenGameBackground.png-49785bb54436d985360f5f34c74cd017.stex" ]
+source_file="res://assets/tilesetOpenGameBackground.png"
+dest_files=[ "res://.import/tilesetOpenGameBackground.png-a9f431c4159f933bbcbe31760bd057fd.stex" ]
 
 [params]
 
