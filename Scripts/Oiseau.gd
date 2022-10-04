@@ -15,4 +15,4 @@ func _physics_process(delta):
 	collision = move_and_collide(velocity * delta)
 	
 	if collision:
-		print(collision.name)
+		print(collision) 

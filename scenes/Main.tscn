@@ -1,10 +1,16 @@
-[gd_scene load_steps=4 format=2]
+[gd_scene load_steps=7 format=2]
 
 [ext_resource path="res://Scripts/Oiseau.gd" type="Script" id=1]
 [ext_resource path="res://scenes/Oiseau.tscn" type="PackedScene" id=2]
 [ext_resource path="res://scenes/Fond.tscn" type="PackedScene" id=3]
+[ext_resource path="res://Scripts/Main.gd" type="Script" id=4]
+[ext_resource path="res://scenes/Tuyaux/Tuyau-2.tscn" type="PackedScene" id=5]
+[ext_resource path="res://scenes/Tuyaux/Tuyau-1.tscn" type="PackedScene" id=6]
 
 [node name="Main" type="Node2D"]
+script = ExtResource( 4 )
+tuyau1 = ExtResource( 6 )
+tuyau2 = ExtResource( 5 )
 
 [node name="Oiseau" parent="." instance=ExtResource( 2 )]
 position = Vector2( 526, 262 )
