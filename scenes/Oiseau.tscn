@@ -1,0 +1,15 @@
+[gd_scene load_steps=3 format=2]
+
+[ext_resource path="res://Assets/Steeven.jpg" type="Texture" id=1]
+
+[sub_resource type="RectangleShape2D" id=1]
+extents = Vector2( 87.5, 77.5 )
+
+[node name="Oiseau" type="KinematicBody2D"]
+
+[node name="CollisionShapeOiseau" type="CollisionShape2D" parent="."]
+position = Vector2( 0.5, -0.5 )
+shape = SubResource( 1 )
+
+[node name="SpriteOiseau" type="Sprite" parent="."]
+texture = ExtResource( 1 )
