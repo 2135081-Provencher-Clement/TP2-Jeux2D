@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/2015-02-26 [DB32](Generic Platformer)(Tileset).png-d78640b536fb1ee1fb901bfc807a57da.stex"
+path="res://.import/2015-02-26 [DB32](Generic Platformer)(Tileset).png-5b66202cbad7ae8eca600db0dd4e2c17.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/2015-02-26 [DB32](Generic Platformer)(Tileset).png"
-dest_files=[ "res://.import/2015-02-26 [DB32](Generic Platformer)(Tileset).png-d78640b536fb1ee1fb901bfc807a57da.stex" ]
+source_file="res://Assets/2015-02-26 [DB32](Generic Platformer)(Tileset).png"
+dest_files=[ "res://.import/2015-02-26 [DB32](Generic Platformer)(Tileset).png-5b66202cbad7ae8eca600db0dd4e2c17.stex" ]
 
 [params]
 
