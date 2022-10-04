@@ -1,0 +1,15 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Assets/tilesetOpenGameBackground.png" type="Texture" id=1]
+
+[node name="ParallaxBackground" type="ParallaxBackground"]
+scroll_offset = Vector2( 1000, 0 )
+
+[node name="ParallaxLayer" type="ParallaxLayer" parent="."]
+motion_offset = Vector2( 1, 0 )
+
+[node name="Background" type="Sprite" parent="ParallaxLayer"]
+position = Vector2( 510.5, 301.5 )
+scale = Vector2( 3.20313, 2.33984 )
+texture = ExtResource( 1 )
+offset = Vector2( 1, 0 )
